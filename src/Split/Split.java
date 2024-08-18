@@ -7,6 +7,7 @@ public class Split {
         String test = "uuu";
         String[] splitTest = test.split("u");
         System.out.println(Arrays.toString(splitTest));
-
     }
 }
+
+
