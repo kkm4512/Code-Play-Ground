@@ -1,4 +1,7 @@
 package AnonymousClass;
+
+import java.util.HashMap;
+
 public class Main {
     interface Music<T> {
         void play(T fileName);
@@ -22,6 +25,7 @@ public class Main {
         music1.play("K-POP");
         music2.play("J-POP");
         music3.play("POP");
+
     }
 
 }
