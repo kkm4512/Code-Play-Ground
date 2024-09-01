@@ -1,4 +1,4 @@
-package getterSetter;
+package getterSetter.시나리오1;
 
 public class CustomerService {
     public static void main(String[] args) {

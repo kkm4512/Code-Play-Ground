@@ -1,4 +1,4 @@
-package getterSetter;
+package getterSetter.시나리오1;
 
 class AccountService {
     private final AccountRepository accountRepository;
