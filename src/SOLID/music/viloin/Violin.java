@@ -1,8 +1,8 @@
-package SOLID.viloin;
+package SOLID.music.viloin;
 
-import SOLID.interfaces.Info;
-import SOLID.interfaces.MusicalInstrument;
-import SOLID.interfaces.Spec;
+import SOLID.music.interfaces.Info;
+import SOLID.music.interfaces.MusicalInstrument;
+import SOLID.music.interfaces.Spec;
 
 public class Violin implements MusicalInstrument {
     private final Info info;

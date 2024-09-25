@@ -1,7 +1,7 @@
-package SOLID.viloin;
+package SOLID.music.viloin;
 
-import SOLID.interfaces.Manager;
-import SOLID.interfaces.MusicalInstrument;
+import SOLID.music.interfaces.Manager;
+import SOLID.music.interfaces.MusicalInstrument;
 
 public class ViolinManager implements Manager {
 

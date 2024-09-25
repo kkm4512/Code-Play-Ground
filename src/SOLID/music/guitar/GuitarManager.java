@@ -1,7 +1,7 @@
-package SOLID.guitar;
+package SOLID.music.guitar;
 
-import SOLID.interfaces.Manager;
-import SOLID.interfaces.MusicalInstrument;
+import SOLID.music.interfaces.Manager;
+import SOLID.music.interfaces.MusicalInstrument;
 
 public class GuitarManager implements Manager {
     private final MusicalInstrument musicalInstrument;

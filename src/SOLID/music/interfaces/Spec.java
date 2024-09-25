@@ -1,4 +1,4 @@
-package SOLID.interfaces;
+package SOLID.music.interfaces;
 
 public interface Spec {
     Integer getPrice();

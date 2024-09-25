@@ -1,6 +1,6 @@
-package SOLID.guitar;
+package SOLID.music.guitar;
 
-import SOLID.interfaces.Info;
+import SOLID.music.interfaces.Info;
 
 public class GuitarInfo implements Info {
     private Integer serialNumber;

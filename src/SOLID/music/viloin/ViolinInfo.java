@@ -1,6 +1,6 @@
-package SOLID.viloin;
+package SOLID.music.viloin;
 
-import SOLID.interfaces.Info;
+import SOLID.music.interfaces.Info;
 
 public class ViolinInfo implements Info {
     private Integer serialNumber;

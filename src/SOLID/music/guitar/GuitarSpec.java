@@ -1,12 +1,12 @@
-package SOLID.viloin;
+package SOLID.music.guitar;
 
-import SOLID.interfaces.Spec;
+import SOLID.music.interfaces.Spec;
 
-public class ViolinSpec implements Spec {
+public class GuitarSpec implements Spec {
     private Integer price;
     private String model;
 
-    public ViolinSpec(Integer price, String model) {
+    public GuitarSpec(Integer price, String model) {
         this.price = price;
         this.model = model;
     }

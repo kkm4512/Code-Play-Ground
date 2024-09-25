@@ -1,17 +1,17 @@
 package SOLID;
 
-import SOLID.guitar.Guitar;
-import SOLID.guitar.GuitarInfo;
-import SOLID.guitar.GuitarManager;
-import SOLID.guitar.GuitarSpec;
-import SOLID.interfaces.Info;
-import SOLID.interfaces.Manager;
-import SOLID.interfaces.MusicalInstrument;
-import SOLID.interfaces.Spec;
-import SOLID.viloin.Violin;
-import SOLID.viloin.ViolinInfo;
-import SOLID.viloin.ViolinManager;
-import SOLID.viloin.ViolinSpec;
+import SOLID.music.guitar.Guitar;
+import SOLID.music.guitar.GuitarInfo;
+import SOLID.music.guitar.GuitarManager;
+import SOLID.music.guitar.GuitarSpec;
+import SOLID.music.interfaces.Info;
+import SOLID.music.interfaces.Manager;
+import SOLID.music.interfaces.MusicalInstrument;
+import SOLID.music.interfaces.Spec;
+import SOLID.music.viloin.Violin;
+import SOLID.music.viloin.ViolinInfo;
+import SOLID.music.viloin.ViolinManager;
+import SOLID.music.viloin.ViolinSpec;
 
 public class Main {
 
